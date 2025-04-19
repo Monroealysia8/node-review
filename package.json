@@ -1,0 +1,26 @@
+{
+  "name": "review",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monroealysia8/node-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monroealysia8/node-review/issues"
+  },
+  "homepage": "https://github.com/Monroealysia8/node-review#readme",
+  "dependencies": {
+    "inquirer": "^12.5.2",
+    "lodash": "^4.17.21"
+  }
+}
